@@ -8,6 +8,14 @@ image::https://www.packet.net/company/logo.png[height="40", link="https://www.pa
 - https://www.packet.net/bare-metal/services/storage/[Block Storage Service]
 - https://www.packet.net/bare-metal/network/[Network Services]
 - Hourly Pricing
+- 8 Minute Deploys
+- CentOS 7, Debian 8, Ubuntu 14.04, Ubuntu 16.04, CoreOS (Alpha, Beta, Stable), Windows 2012 R2 x64, FreeBSD and RancherOS
+- connectivity partnership with CloudFlare, Fastly
+- API. Libraries for Go, Ruby, Python, Java and PHP
+- https://www.packet.net/integrations/[Integrations] with Terraform, Ansible, Docker and Rancher
+- CloudInit & Meta Data
+- Automatic BGP / Anycast
+- 100% IPv6 Native
 
 *Links:*
 
