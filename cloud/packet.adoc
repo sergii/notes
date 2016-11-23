@@ -1,0 +1,16 @@
+Bare Metal Cloud Provider
+
+image::https://www.packet.net/company/logo.png[height="40", link="https://www.packet.net/"]
+
+*Features:*
+
+- https://www.packet.net/bare-metal/[fully isolated dedicated servers]
+- https://www.packet.net/bare-metal/services/storage/[Block Storage Service]
+- https://www.packet.net/bare-metal/network/[Network Services]
+- Hourly Pricing
+
+*Links:*
+
+- https://medium.com/@joshuapinter/digitalocean-vs-packet-3fbff37998be[DigitalOcean vs Packet]
+- https://sreeninet.wordpress.com/2016/03/24/baremetal-cloud-using-packet/[Baremetal cloud using Packet]
+
