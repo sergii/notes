@@ -21,4 +21,4 @@ image::https://www.packet.net/company/logo.png[height="40", link="https://www.pa
 
 - https://medium.com/@joshuapinter/digitalocean-vs-packet-3fbff37998be[DigitalOcean vs Packet]
 - https://sreeninet.wordpress.com/2016/03/24/baremetal-cloud-using-packet/[Baremetal cloud using Packet]
-
+- http://blog.tiingo.com/switched-away-aws-packet-net-benchmarking-networking-disk-processing-speeds/[AWS vs Packet.net. Why we left AWS]
